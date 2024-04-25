@@ -4,10 +4,10 @@ Hey my name is Mathis Guillemois, I'm passionate about data! Whether it's crunch
 
 #  🌏 Languages 🌏
 
- 🇫🇷 French : Native
- 🇺🇸 English : C1
- 🇪🇸 Spanish : B1
- 🇨🇳 Chinese : B1
+ 🇫🇷 French : Native  
+ 🇺🇸 English : C1  
+ 🇪🇸 Spanish : B1  
+ 🇨🇳 Chinese : B1  
  
 
 

@@ -4,10 +4,11 @@ Hey my name is Mathis Guillemois, I'm passionate about data! Whether it's crunch
 
 #  🌏 Languages 🌏
 
- 🇫🇷 French : Native  
- 🇺🇸 English : C1  
- 🇪🇸 Spanish : B1  
- 🇨🇳 Chinese : B1  
+*  🇫🇷 French : Native  
+*  🇺🇸 English : C1  
+*  🇪🇸 Spanish : B1  
+*  🇨🇳 Chinese : B1  
  
-
+# Get in Touch
+I'm always eager to collaborate on new data projects or discuss opportunities in the field of data science and analytics. Feel free to reach out to connect with me on [LinkedIn](https://www.linkedin.com/in/mathis-guillemois-bb9320176/).
 

@@ -5,7 +5,7 @@ Hey my name is Mathis Guillemois, I'm passionate about data! Whether it's crunch
 # 🤖 Skills
 
 * Data Analytics (Excel, SQL, Python, PowerBI)
-* Data Science ((Scikit-Learn - TensorFlow - Keras - Fast API - GCP - Docker - GiT)
+* Data Science (Scikit-Learn - TensorFlow - Keras - Fast API - GCP - Docker - GiT)
 
 #  🌏 Languages 🌏
 
